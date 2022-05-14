@@ -1,3 +1,5 @@
 # Meal Tracker Application
 
-work in progress (60%)
+A simple meal tracker application.
+
+Stack -- MERN
