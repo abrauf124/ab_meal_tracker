@@ -12,7 +12,7 @@ export const IngredientsList = ({ingredients, isLoading, onDelete}) => (
                 <IngredientListItem
                     key={ingredient.name}
                     ingredient={ingredient}
-                    onDelete={onDelete} />
+                    onDelete={onDelete } />
             ))}
         <Link to='/add-ingredient'>
             <button className="space-before">+ Add Ingredients</button>
